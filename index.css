@@ -37,7 +37,7 @@ html, body{
 }
 .menu ul li{
 	list-style-type: none;
-	margin-left: 60px;
+	margin-left: 40px;
 	display: inline-block;
 }
 .menu ul li a{
